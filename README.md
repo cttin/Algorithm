@@ -10,10 +10,11 @@
 选择题目除了难度上要循序渐进，还要需要在算法类型上进行分类。基本的算法数据结构是有限的，如链表、二叉树、二分查找、动态规划等等。按照算法的分类来做题可以极大的提高刷题的速度，而且能带来更好的效果：一方面加深理解；另一方面可以更加全面的接触这个算法。等到你到了一定的熟练程度，可以以打散的方式来做题，更好的锻炼思维和应变能力。
 解体三部曲：看懂题目；分析推导题目的解法；将思路转化为代码；思考和总结：用到了什么算法，还有没有其他方法，有没有考虑清楚边界情况，相应的数据结构问题能否覆盖题目问题中的所有情况。
 * 保持持续的动力。算法能力的提升，是一件需要长期坚持的事情，需要持续的学习和做题。
+* [刷 LeetCode 吃力正常吗？](https://www.zhihu.com/question/31092580/answer/453117660)
 ## 算法题来源
-* leetcode  
-    [leetcode](https://leetcode.com/problemset/all/)  
-    [leetcode 中文](https://leetcode-cn.com/)  
+* leetcode
+    [leetcode](https://leetcode.com/problemset/all/)
+    [leetcode 中文](https://leetcode-cn.com/)
 * 前端常见算法题
 ## 常见面试算法题
 [互联网公司最常见的面试算法题有哪些?](https://www.zhihu.com/question/24964987/answer/586425979)
@@ -22,5 +23,39 @@
 ## 算法题分类
 ### 数据结构
 * 数组和链表
-    - [1.Two Sum](https://leetcode.com/problems/two-sum/)  
+    - [1.Two Sum](https://leetcode.com/problems/two-sum/)
     - [26.Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+* 栈与队列
+* 树与图
+* 哈希表
+* 堆
+* 字符串
+### 算法
+* 排序算法
+    - 快速排序
+    - 归并排序
+    - 插入排序
+    - 冒泡排序
+    - 选择排序
+    - 堆排序
+    - 计数排序
+    - 希尔排序
+    - 桶排序
+    - 基数排序
+* 搜索算法
+    - 回溯
+    - 递归
+    - 剪枝技巧
+* 图论
+    - 最短路
+    - 最小生成树
+* 动态规划
+    - 背包问题
+    - 最长子序列
+    - 计数问题
+* 基础技巧
+    - 分心
+    - 倍增
+    - 二分
+    - 贪心
+
