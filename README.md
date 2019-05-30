@@ -11,9 +11,9 @@
 解体三部曲：看懂题目；分析推导题目的解法；将思路转化为代码；思考和总结：用到了什么算法，还有没有其他方法，有没有考虑清楚边界情况，相应的数据结构问题能否覆盖题目问题中的所有情况。
 * 保持持续的动力。算法能力的提升，是一件需要长期坚持的事情，需要持续的学习和做题。
 ## 算法题来源
-* leetcode
-    [leetcode](https://leetcode.com/problemset/all/)
-    [leetcode 中文](https://leetcode-cn.com/)
+* leetcode  
+    [leetcode](https://leetcode.com/problemset/all/)  
+    [leetcode 中文](https://leetcode-cn.com/)  
 * 前端常见算法题
 ## 常见面试算法题
 [互联网公司最常见的面试算法题有哪些?](https://www.zhihu.com/question/24964987/answer/586425979)
@@ -22,5 +22,5 @@
 ## 算法题分类
 ### 数据结构
 * 数组和链表
-    - [1.Two Sum](https://leetcode.com/problems/two-sum/)
+    - [1.Two Sum](https://leetcode.com/problems/two-sum/)  
     - [26.Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
